@@ -1,0 +1,12 @@
+E:\Coding\Projects\FreshStart\XNA3.0\Only 100% Fully Working Code\TheGlen\Idyll\bin\x86\Debug\Idyll.dll
+E:\Coding\Projects\FreshStart\XNA3.0\Only 100% Fully Working Code\TheGlen\Idyll\bin\x86\Debug\Idyll.pdb
+E:\Coding\Projects\FreshStart\XNA3.0\Only 100% Fully Working Code\TheGlen\Idyll\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Coding\Projects\FreshStart\XNA3.0\Only 100% Fully Working Code\TheGlen\Idyll\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Coding\Projects\FreshStart\XNA3.0\Only 100% Fully Working Code\TheGlen\Idyll\obj\x86\Debug\Idyll.dll
+E:\Coding\Projects\FreshStart\XNA3.0\Only 100% Fully Working Code\TheGlen\Idyll\obj\x86\Debug\Idyll.pdb
+D:\Dev\code\FresnelWater+Trees+MaximallySuboptimalRendering\TheGlen\Idyll\obj\x86\Debug\Idyll.csprojResolveAssemblyReference.cache
+D:\Dev\code\FresnelWater+Trees+MaximallySuboptimalRendering\TheGlen\Idyll\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Dev\code\FresnelWater+Trees+MaximallySuboptimalRendering\TheGlen\Idyll\obj\x86\Debug\Idyll.dll
+D:\Dev\code\FresnelWater+Trees+MaximallySuboptimalRendering\TheGlen\Idyll\obj\x86\Debug\Idyll.pdb
+D:\Dev\code\FresnelWater+Trees+MaximallySuboptimalRendering\TheGlen\Idyll\bin\x86\Debug\Idyll.dll
+D:\Dev\code\FresnelWater+Trees+MaximallySuboptimalRendering\TheGlen\Idyll\bin\x86\Debug\Idyll.pdb

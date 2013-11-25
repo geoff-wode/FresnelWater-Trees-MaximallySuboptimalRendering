@@ -1,0 +1,2 @@
+D:\Dev\code\FresnelWater+Trees+MaximallySuboptimalRendering\TheGlen\TheMeadow\obj\x86\Debug\Meadow.csprojResolveAssemblyReference.cache
+D:\Dev\code\FresnelWater+Trees+MaximallySuboptimalRendering\TheGlen\TheMeadow\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt

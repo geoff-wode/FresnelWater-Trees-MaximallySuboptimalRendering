@@ -1,0 +1,241 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>D:\Dev\code\FresnelWater+Trees+MaximallySuboptimalRendering\Effects\Terrain.fx</Source>
+      <Name>Effects\Terrain</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dev\code\FresnelWater+Trees+MaximallySuboptimalRendering\TheGlen\TheMeadow\bin\x86\Debug\Content\Effects\Terrain.xnb</Output>
+      <Time>2008-10-05T19:52:34.8901432+01:00</Time>
+      <Dependency>
+        <Key>D:\Dev\code\FresnelWater+Trees+MaximallySuboptimalRendering\Effects\CommonParameters.fx</Key>
+        <Value>2008-10-05T23:26:08.321+01:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>D:\Dev\code\FresnelWater+Trees+MaximallySuboptimalRendering\Effects\Water.fx</Source>
+      <Name>Effects\Water</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dev\code\FresnelWater+Trees+MaximallySuboptimalRendering\TheGlen\TheMeadow\bin\x86\Debug\Content\Effects\Water.xnb</Output>
+      <Time>2008-10-06T00:27:07.832+01:00</Time>
+      <Dependency>
+        <Key>D:\Dev\code\FresnelWater+Trees+MaximallySuboptimalRendering\Effects\CommonParameters.fx</Key>
+        <Value>2008-10-05T23:26:08.321+01:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>D:\Dev\code\FresnelWater+Trees+MaximallySuboptimalRendering\Effects\CommonParameters.fx</Source>
+      <Name>Effects\CommonParameters</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dev\code\FresnelWater+Trees+MaximallySuboptimalRendering\TheGlen\TheMeadow\bin\x86\Debug\Content\Effects\CommonParameters.xnb</Output>
+      <Time>2008-10-05T23:26:08.321+01:00</Time>
+    </Item>
+    <Item>
+      <Source>D:\Dev\code\FresnelWater+Trees+MaximallySuboptimalRendering\Effects\Textured.fx</Source>
+      <Name>Effects\Textured</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dev\code\FresnelWater+Trees+MaximallySuboptimalRendering\TheGlen\TheMeadow\bin\x86\Debug\Content\Effects\Textured.xnb</Output>
+      <Time>2008-10-05T14:17:17.7603352+01:00</Time>
+      <Dependency>
+        <Key>D:\Dev\code\FresnelWater+Trees+MaximallySuboptimalRendering\Effects\CommonParameters.fx</Key>
+        <Value>2008-10-05T23:26:08.321+01:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Textures\Nature\tree_uv.dds</Source>
+      <Name>Textures\Nature\tree_uv</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dev\code\FresnelWater+Trees+MaximallySuboptimalRendering\TheGlen\TheMeadow\bin\x86\Debug\Content\Textures\Nature\tree_uv.xnb</Output>
+      <Time>2008-10-06T01:27:13.073+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Terrain\grass.DDS</Source>
+      <Name>Textures\Terrain\grass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dev\code\FresnelWater+Trees+MaximallySuboptimalRendering\TheGlen\TheMeadow\bin\x86\Debug\Content\Textures\Terrain\grass.xnb</Output>
+      <Time>2008-11-06T21:51:11.316+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Terrain\rgbTerrain.png</Source>
+      <Name>Textures\Terrain\rgbTerrain</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dev\code\FresnelWater+Trees+MaximallySuboptimalRendering\TheGlen\TheMeadow\bin\x86\Debug\Content\Textures\Terrain\rgbTerrain.xnb</Output>
+      <Time>2008-10-08T01:20:10.135+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Terrain\Rock.dds</Source>
+      <Name>Textures\Terrain\Rock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dev\code\FresnelWater+Trees+MaximallySuboptimalRendering\TheGlen\TheMeadow\bin\x86\Debug\Content\Textures\Terrain\Rock.xnb</Output>
+      <Time>2008-07-20T13:30:28.1279337+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Terrain\Sand.dds</Source>
+      <Name>Textures\Terrain\Sand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dev\code\FresnelWater+Trees+MaximallySuboptimalRendering\TheGlen\TheMeadow\bin\x86\Debug\Content\Textures\Terrain\Sand.xnb</Output>
+      <Time>2008-07-20T13:30:20.3779337+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Terrain\Snow.dds</Source>
+      <Name>Textures\Terrain\Snow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dev\code\FresnelWater+Trees+MaximallySuboptimalRendering\TheGlen\TheMeadow\bin\x86\Debug\Content\Textures\Terrain\Snow.xnb</Output>
+      <Time>2008-07-20T13:30:42.7709337+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Terrain\waterbump.dds</Source>
+      <Name>Textures\Terrain\waterbump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dev\code\FresnelWater+Trees+MaximallySuboptimalRendering\TheGlen\TheMeadow\bin\x86\Debug\Content\Textures\Terrain\waterbump.xnb</Output>
+      <Time>2008-10-05T14:35:23.6853352+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Weather\cloudMap.jpg</Source>
+      <Name>Textures\Weather\cloudMap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dev\code\FresnelWater+Trees+MaximallySuboptimalRendering\TheGlen\TheMeadow\bin\x86\Debug\Content\Textures\Weather\cloudMap.xnb</Output>
+      <Time>2008-09-24T22:47:05.4365394+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Nature\tree.x</Source>
+      <Name>Models\Nature\tree</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dev\code\FresnelWater+Trees+MaximallySuboptimalRendering\TheGlen\TheMeadow\bin\x86\Debug\Content\Models\Nature\tree.xnb</Output>
+      <Time>2008-03-11T23:04:28+00:00</Time>
+      <Dependency>
+        <Key>D:\Dev\code\FresnelWater+Trees+MaximallySuboptimalRendering\TheGlen\TheMeadow\obj\x86\Debug\Models\Nature\tree_0.xml</Key>
+        <Value>2013-11-25T10:57:22.9092+00:00</Value>
+      </Dependency>
+      <Request>D:\Dev\code\FresnelWater+Trees+MaximallySuboptimalRendering\TheGlen\TheMeadow\bin\x86\Debug\Content\Models\Textures\tree_uv_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\dome.x</Source>
+      <Name>Models\dome</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dev\code\FresnelWater+Trees+MaximallySuboptimalRendering\TheGlen\TheMeadow\bin\x86\Debug\Content\Models\dome.xnb</Output>
+      <Time>2008-11-08T15:41:02.460537+00:00</Time>
+      <Dependency>
+        <Key>D:\Dev\code\FresnelWater+Trees+MaximallySuboptimalRendering\TheGlen\TheMeadow\obj\x86\Debug\Models\dome_0.xml</Key>
+        <Value>2013-11-25T10:58:18.9302+00:00</Value>
+      </Dependency>
+      <Request>D:\Dev\code\FresnelWater+Trees+MaximallySuboptimalRendering\TheGlen\TheMeadow\bin\x86\Debug\Content\Textures\Sky\cloudMap_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Nature\tree.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>D:\Dev\code\FresnelWater+Trees+MaximallySuboptimalRendering\TheGlen\TheMeadow\obj\x86\Debug\Models\Nature\tree_0.xml</Output>
+      <Time>2008-03-11T23:04:28+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Textures\tree_uv.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Dev\code\FresnelWater+Trees+MaximallySuboptimalRendering\TheGlen\TheMeadow\bin\x86\Debug\Content\Models\Textures\tree_uv_0.xnb</Output>
+      <Time>2008-03-11T23:04:18+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\dome.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>D:\Dev\code\FresnelWater+Trees+MaximallySuboptimalRendering\TheGlen\TheMeadow\obj\x86\Debug\Models\dome_0.xml</Output>
+      <Time>2008-11-08T15:41:02.460537+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sky\cloudMap.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Dev\code\FresnelWater+Trees+MaximallySuboptimalRendering\TheGlen\TheMeadow\bin\x86\Debug\Content\Textures\Sky\cloudMap_0.xnb</Output>
+      <Time>2008-09-24T22:47:05.4365394+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{CE49E041-190D-41EB-8399-138E95C5AC59}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\Dev\code\FresnelWater+Trees+MaximallySuboptimalRendering\TheGlen\TheMeadow\Content\</RootDirectory>
+      <LoggerRootDirectory>D:\Dev\code\FresnelWater+Trees+MaximallySuboptimalRendering\TheGlen\TheMeadow\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Dev\code\FresnelWater+Trees+MaximallySuboptimalRendering\TheGlen\TheMeadow\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\Dev\code\FresnelWater+Trees+MaximallySuboptimalRendering\TheGlen\TheMeadow\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-08-14T10:32:22.8752+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
